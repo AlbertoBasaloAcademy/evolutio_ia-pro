@@ -20,7 +20,7 @@ Por [Alberto Basalo](https://albertobasalo.dev)
 
 ### ¿Qué es ChatGPT?
 
-* Es un servicio de OpenAI que usa modelos de lenguaje de gran escala (LLMs).
+* Es un producto de OpenAI que usa modelos de lenguaje de gran escala (LLMs).
 
 ### ¿Por qué ChatGPT?
 
@@ -60,7 +60,7 @@ Por [Alberto Basalo](https://albertobasalo.dev)
 
 ### Investigación
 
-* ChatGPT puede usar la herramienta **navegador web** para acceder a información actualizada.
+* ChatGPT puede usar la herramienta _navegador web_ para acceder a información actualizada.
 * Ideal para temas cambiantes, verificación de fuentes o análisis de competidores.
 
 ---

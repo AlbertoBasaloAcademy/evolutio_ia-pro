@@ -4,6 +4,6 @@
     "Tecnofor"
   ],
   "markdown.marp.themes": [
-    "./ab.css"
+    "./docs/lessons/ab.css"
   ]
 }
