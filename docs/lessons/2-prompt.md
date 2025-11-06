@@ -7,9 +7,11 @@ marp: true
 theme: ab
 ---
 
-# El Arte/Ingeniería del Prompting 💬
+# El Arte/Ingeniería del Prompting
 
-Un curso de [Tecnofor](https://www.tecnofor.es/) para Evolutio.  
+### La instrucción que le damos a la IA determina la calidad de su respuesta.
+
+Un curso de [Tecnofor](https://www.tecnofor.es/) para **Evolutio**.
 Por [Alberto Basalo](https://albertobasalo.dev)
 
 > Noviembre 2025
@@ -28,7 +30,7 @@ Por [Alberto Basalo](https://albertobasalo.dev)
 ### Actividad rápida  
 - Escribe en el chat un ejemplo de cómo pedirías algo a una IA.  
 - Luego intenta hacerlo más claro o más corto.  
-> ¿Qué cambiaste?
+  > ¿Qué cambiaste?
 
 ---
 
@@ -81,15 +83,15 @@ Por [Alberto Basalo](https://albertobasalo.dev)
 
 ### Práctica individual y puesta en común
 
-1. **Crea un prompt estructurado:**  
+- **1. Crea un prompt estructurado:**  
    > Ejemplo: "Impacto de la IA en el mercado laboral."
    Añade rol, tarea, contexto y formato.
 
-2. **Refina tu prompt:**  
+- **2. Refina tu prompt:**  
    > Cambiar el rol, la instrucción, el contexto, los datos.  
    Observa cómo cambia la respuesta.
 
-3. **Aplica una técnica avanzada:**  
+- **3. Aplica una técnica avanzada:**  
    > Añade un ejemplo previo o pide que evalúe su propia respuesta.
 
 ---

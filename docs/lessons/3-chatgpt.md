@@ -7,9 +7,11 @@ marp: true
 theme: ab
 ---
 
-# ChatGPT en profundidad 💡
+# ChatGPT en profundidad
 
-Un curso de [Tecnofor](https://www.tecnofor.es/) para Evolutio.  
+### ChatGPT es la herramienta de IA más versátil y accesible para profesionales.
+
+Un curso de [Tecnofor](https://www.tecnofor.es/) para **Evolutio**.  
 Por [Alberto Basalo](https://albertobasalo.dev)
 
 > Noviembre 2025
@@ -28,7 +30,7 @@ Por [Alberto Basalo](https://albertobasalo.dev)
 
 ### Actividad rápida  
 - Escribe en el chat una tarea de tu trabajo que podrías automatizar con ChatGPT.  
-> ¿Qué esperas que haga por ti?
+  > ¿Qué esperas que haga por ti?
 
 ---
 
@@ -109,15 +111,15 @@ Por [Alberto Basalo](https://albertobasalo.dev)
 
 ### Práctica individual y discusión breve
 
-1. **Crea un proyecto en ChatGPT:**  
+- **1. Crea un proyecto en ChatGPT:**  
    > Nómbralo “Atención al cliente con IA”.  
    Añade un archivo o conversación de ejemplo.
 
-2. **Explora la función de investigación:**  
+- **2. Explora la función de investigación:**  
    > Busca “tendencias actuales en atención al cliente digital”.  
    Guarda las fuentes relevantes en el proyecto.
 
-3. **Usa el lienzo:**  
+- **3. Usa el lienzo:**  
    > Redacta un resumen de tus hallazgos.  
    Incluye listas o tablas según convenga.
 

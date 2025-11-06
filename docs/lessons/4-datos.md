@@ -7,9 +7,11 @@ marp: true
 theme: ab
 ---
 
-# Análisis de datos con IA 📊
+# Análisis de datos con IA
 
-Un curso de [Tecnofor](https://www.tecnofor.es/) para Evolutio.  
+### La IA permite explorar, resumir y visualizar datos de forma asistida.
+
+Un curso de [Tecnofor](https://www.tecnofor.es/) para **Evolutio**.  
 Por [Alberto Basalo](https://albertobasalo.dev)
 
 > Noviembre 2025
@@ -30,7 +32,7 @@ Por [Alberto Basalo](https://albertobasalo.dev)
 
 ### Actividad rápida  
 - Piensa en un tipo de dato que usas en tu trabajo: ventas, incidencias, tiempos, encuestas...  
-> Escríbelo en el chat: ¿qué te gustaría saber de esos datos?
+> Escribe en el chat: ¿qué te gustaría saber de esos datos?
 
 ---
 
@@ -38,7 +40,7 @@ Por [Alberto Basalo](https://albertobasalo.dev)
 
 ### Tipos de datos y formatos
 
-- Los más comunes: **CSV**, **Excel (XLSX)** y **JSON**.  
+- Los más comunes: `CSV`, `Excel (XLSX)` y `JSON`.  
 - ChatGPT puede:  
   - Leer tablas.  
   - Filtrar información.  
@@ -57,7 +59,7 @@ Por [Alberto Basalo](https://albertobasalo.dev)
 
 ---
 
-### Herramientas disponibles
+### RECUERDA: ChatGPT es más que un chat
 
 | Herramienta | Función |
 | :--- | :--- |
@@ -80,15 +82,15 @@ Por [Alberto Basalo](https://albertobasalo.dev)
 
 ### Práctica individual
 
-1. **Carga de datos**  
+- **1. Carga de datos**  
    > Sube un archivo `CSV` o `Excel` con datos de ejemplo.  
    > Pide: _"Describe el contenido general del archivo."_
 
-2. **Exploración guiada**  
+- **2. Exploración guiada**  
    > Haz preguntas sobre patrones o valores atípicos.  
    > Ejemplo: _"¿Qué región tuvo más ventas?"_  
 
-3. **Visualización**  
+- **3. Visualización**  
    > Pide un gráfico básico.  
    > Ejemplo: _"Muestra la evolución de las ventas."_  
 
@@ -98,15 +100,14 @@ Por [Alberto Basalo](https://albertobasalo.dev)
 
 - La IA es capaz de **entender, resumir y visualizar** datos estructurados.  
 - No reemplaza el análisis humano, lo **complementa**.  
-- Saber formular preguntas correctas sigue siendo la clave.
+- Saber **formular preguntas** correctas sigue siendo la clave.
 
-### Cierre de sesión 🎓
+### ¿Qué necesitas para usar la IA profesionalmente?  
 
-- Hemos visto cómo usar la IA para:  
-  1. **Entender sus fundamentos.**  
-  2. **Dominar el prompting.**  
-  3. **Trabajar con ChatGPT profesionalmente.**  
-  4. **Analizar datos con eficacia.**
+  - Entender sus fundamentos.
+  - Dominar el prompting.
+  - Trabajar con las herramientas de ChatGPT.
+  - Analizar datos con eficacia.
 
 > _No es magia, es tecnología._  
 > **Alberto Basalo**

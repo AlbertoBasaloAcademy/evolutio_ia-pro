@@ -1,15 +1,17 @@
 ---
 title: "Introducción a la Inteligencia Artificial"
-description: "La IA es la base de todas las herramientas inteligentes que usamos hoy."
+description: "La IA es la base de todas las herramientas que usaremos a partir de hoy."
 author: "Alberto Basalo"
 url: "1-intro_ia.md"
 marp: true
 theme: ab
 ---
 
-# Introducción a la Inteligencia Artificial 🤖
+# Introducción a la Inteligencia Artificial
 
-Un curso de [Tecnofor](https://www.tecnofor.es/) para Evolutio.  
+### La IA es la base de todas las herramientas que usaremos a partir de hoy.
+
+Un curso de [Tecnofor](https://www.tecnofor.es/) para **Evolutio**.  
 Por [Alberto Basalo](https://albertobasalo.dev)
 
 > Noviembre 2025
@@ -20,15 +22,17 @@ Por [Alberto Basalo](https://albertobasalo.dev)
 
 ### ¿Qué entendemos por IA?
 
-- Es la **automatización de tareas intelectuales**: escribir, analizar, decidir, razonar.  
-- No es _magIA_, ni _conciencIA_, es **tecnologÍA**.
+- Es la **automatización de tareas intelectuales**
+  > escribir, analizar, decidir, razonar.  
+- No es _magIA_, ni _conciencIA_, 
+  > es **tecnologÍA**.
 
 ---
 
 ### Actividad rápida  
 
 - Escribe tres palabras que asocies con _"Inteligencia Artificial"_.  
-> Comenta en el chat: ¿ya usas IA en tu trabajo?
+  > Comenta en el chat: ¿para qué usas IA en tu trabajo?
 
 ---
 
@@ -38,25 +42,24 @@ Por [Alberto Basalo](https://albertobasalo.dev)
 
 - Son programas que **leen mucho texto y aprenden patrones** de lenguaje. 
 - No "piensan", **predicen la siguiente palabra** de forma estadística.
-  > Ejemplos: **ChatGPT, Claude, Gemini, DeepSeek, Grok.**
+  > Ejemplos: `ChatGPT, Claude, Gemini, DeepSeek, Grok.`
 
 ---
 
 ### Agentes y herramientas
 
-- Un **agente** es un programa que usa un modelo y otras funciones para cumplir un objetivo.  
-  > Ejemplo: un asistente que responde correos o un bot de atención al cliente.  
+- Un **agente** es un programa que usa un modelo y otras funciones para cumplir un objetivo.   
 - Las **herramientas** amplían sus capacidades (buscar, calcular, generar imágenes...).
-  > Ejemplo: Copilot, o los propios web chats de OpenAI, Google o Anthropic.
+  > Ejemplo: `Copilot`, o los propios web chats de OpenAI, Google o Anthropic.
 
 ---
 
 ### Entrenamiento e inferencia
 
 - **Entrenamiento:** aprende a partir de millones de textos.  
-  > "El cielo es azul", "El cielo es gris", "El cielo es azul"
+  > "El cielo es azul", "El cielo está gris", "El cielo hoy está azul"
 - **Inferencia:** usa ese conocimiento para responder una nueva entrada.  
-  > "El cielo es…" → predice "azul".
+  > "El cielo está…" → predice "azul".
 
 ---
 
@@ -71,8 +74,8 @@ Por [Alberto Basalo](https://albertobasalo.dev)
 
 ### Contexto y memoria
 
-- Solo entiende lo que está en la conversación o en su memoria reciente.  
-- No recuerda todo, pero puede mantener coherencia dentro de un proyecto.  
+- Solo entiende lo que está en la **conversación** o en su memoria reciente.  
+- No recuerda todo, pero puede mantener **coherencia** dentro de un proyecto.  
   > Ejemplo: "Sigue el resumen que hicimos antes."
 
 ---
@@ -81,20 +84,20 @@ Por [Alberto Basalo](https://albertobasalo.dev)
 
 ### Práctica individual y discusión breve
 
-1. **Explora una IA general (ChatGPT, Gemini, etc.):**  
+- **1. Explora una IA general (ChatGPT, Gemini, etc.):**  
    > Pide: _"Explica qué es la IA en una frase sencilla."_  
 
-2. **Detecta un error:**  
+- **2. Detecta un error:**  
    > Pregunta por _"Precio de los tokens de OpenAI"_.  
 
-3. **Detectar sesgos:**
-   > Preguntar por _"el impacto de la IA en el mercado laboral"_.
+- **3. Detectar sesgos:**
+   > Preguntar por _"El impacto de la IA en el mercado laboral"_.
 
 ---
 
 ## CONCLUSIONES
 
-- La IA **no sustituye inteligencia**, la amplifica.  
+- La IA **no te sustituye**, te amplifica.  
 - Todo modelo depende de **sus datos** y **de cómo lo uses**.  
 - Saber **preguntar bien** será la nueva habilidad profesional.
 
