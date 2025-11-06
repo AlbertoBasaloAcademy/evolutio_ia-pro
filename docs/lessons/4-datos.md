@@ -1,15 +1,15 @@
 ---
-title: "IA"
-description: "La IA es una herramienta poderosa para analizar datos."
+title: "Análisis de datos con IA"
+description: "La IA permite explorar, resumir y visualizar datos de forma asistida."
 author: "Alberto Basalo"
 url: "4-datos.md"
 marp: true
-theme: ab 
+theme: ab
 ---
 
-# Análisis de Datos con IA
+# Análisis de datos con IA 📊
 
-Un curso de [Tecnofor](https://www.tecnofor.es/) para Evolutio.
+Un curso de [Tecnofor](https://www.tecnofor.es/) para Evolutio.  
 Por [Alberto Basalo](https://albertobasalo.dev)
 
 > Noviembre 2025
@@ -18,73 +18,95 @@ Por [Alberto Basalo](https://albertobasalo.dev)
 
 ## CONEXIÓN
 
-### ¿Qué es el Análisis de Datos con IA?
-
-- Es el uso de modelos para comprender, resumir o visualizar información contenida en datos estructurados.
-
 ### ¿Qué puede hacer la IA con los datos?
 
-- Automatizar parte del proceso analítico y extraer conclusiones con rapidez.
-  - Identificar patrones y tendencias.
-  - Responder preguntas específicas sobre los datos.
-  - Generar visualizaciones o informes automatizados.
-  - Detectar errores o valores anómalos.
+- Analizar, resumir y visualizar información en **minutos**.  
+- Identificar **tendencias, patrones o valores anómalos**.  
+- Generar **informes automáticos y conclusiones** comprensibles.  
+
+> No sustituye al analista, lo **asiste y acelera**.
+
+---
+
+### Actividad rápida  
+- Piensa en un tipo de dato que usas en tu trabajo: ventas, incidencias, tiempos, encuestas...  
+> Escríbelo en el chat: ¿qué te gustaría saber de esos datos?
 
 ---
 
 ## CONCEPTOS
 
-### Ficheros y formatos
+### Tipos de datos y formatos
 
-- Los formatos más comunes son **CSV**, **Excel (XLSX)** y **JSON**.
-- ChatGPT puede interpretar tablas, filtrar información y calcular agregados básicos.
-- Es importante verificar que los datos estén limpios y correctamente estructurados.
+- Los más comunes: **CSV**, **Excel (XLSX)** y **JSON**.  
+- ChatGPT puede:  
+  - Leer tablas.  
+  - Filtrar información.  
+  - Calcular agregados simples.  
 
----
-
-### Preguntas y respuestas
-
-- Se puede usar lenguaje natural para consultar los datos cargados.
-- Ejemplos: “¿Cuál es el promedio de ventas por región?” o “¿Qué producto tiene mayor margen?”
-- Las respuestas pueden incluir tablas o resúmenes descriptivos.
+> Es esencial que los datos estén **limpios y estructurados**.
 
 ---
 
-### Herramientas de análisis
+### Consultas en lenguaje natural
 
-- **Python:** para cálculos y gráficos más complejos.
-- **Lienzo (Canvas):** para documentar el análisis y resultados.
-- **Herramienta web:** para complementar datos o contrastar información externa.
+- Puedes preguntar como si hablaras con una persona:  
+  > "¿Cuál es la media de ventas por región?"  
+  > "¿Qué producto tiene más incidencias?"  
+- El modelo interpreta, calcula y resume resultados.
+
+---
+
+### Herramientas disponibles
+
+| Herramienta | Función |
+| :--- | :--- |
+| **Python** | Cálculos avanzados, gráficos, análisis estadístico. |
+| **Lienzo (Canvas)** | Documentar resultados y conclusiones. |
+| **Investigación (Web)** | Contrastar fuentes o buscar datos externos. |
+
+---
+
+### Limitaciones y buenas prácticas
+
+- No puede acceder a bases de datos privadas ni sistemas internos.  
+- Los datos sensibles deben **anonimizarse**.  
+- Revisa siempre los resultados antes de difundirlos.  
+> La IA **ayuda a pensar**, pero no **decide sola**.
 
 ---
 
 ## CONCRETANDO
 
-### Práctica individual, discusión en grupo.
+### Práctica individual
 
-- 1. **Carga y exploración de datos**
+1. **Carga de datos**  
+   > Sube un archivo `CSV` o `Excel` con datos de ejemplo.  
+   > Pide: _"Describe el contenido general del archivo."_
 
-  > Subir un archivo **CSV** o **Excel** con datos de ejemplo 
-  > Pedir a la IA que describa el contenido general 
+2. **Exploración guiada**  
+   > Haz preguntas sobre patrones o valores atípicos.  
+   > Ejemplo: _"¿Qué región tuvo más ventas?"_  
 
-- 2. **Análisis de datos**
-
-  > Preguntar por tendencias o patrones.
-  > Identificar posibles problemas o valores anómalos.
-
-- 3. **Gráficos y cálculos**
-
-  > Generar gráficos básicos con los datos.
-  > Calcular agregados estadísticos (media, mediana, moda, etc.).
+3. **Visualización**  
+   > Pide un gráfico básico.  
+   > Ejemplo: _"Muestra la evolución de las ventas."_  
 
 ---
 
 ## CONCLUSIONES
 
-- La IA es más que texto, también trabaja con datos.
+- La IA es capaz de **entender, resumir y visualizar** datos estructurados.  
+- No reemplaza el análisis humano, lo **complementa**.  
+- Saber formular preguntas correctas sigue siendo la clave.
 
-### Próxima lección: 
-**Automatización de Procesos y Flujos.**
+### Cierre de sesión 🎓
 
-> _No es magia, es tecnología._ 
+- Hemos visto cómo usar la IA para:  
+  1. **Entender sus fundamentos.**  
+  2. **Dominar el prompting.**  
+  3. **Trabajar con ChatGPT profesionalmente.**  
+  4. **Analizar datos con eficacia.**
+
+> _No es magia, es tecnología._  
 > **Alberto Basalo**

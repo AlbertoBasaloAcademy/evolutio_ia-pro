@@ -1,16 +1,17 @@
 ---
 title: "El Arte/Ingeniería del Prompting"
-description: "La instrucción que le damos a la IA es la clave para obtener resultados útiles."
+description: "La instrucción que le damos a la IA determina la calidad de su respuesta."
 author: "Alberto Basalo"
 url: "2-prompt.md"
 marp: true
-theme: ab 
+theme: ab
 ---
 
-# El Arte/Ingeniería del Prompting 💡
+# El Arte/Ingeniería del Prompting 💬
 
-Un curso de [Tecnofor](https://www.tecnofor.es/) para Evolutio.
+Un curso de [Tecnofor](https://www.tecnofor.es/) para Evolutio.  
 Por [Alberto Basalo](https://albertobasalo.dev)
+
 > Noviembre 2025
 
 ---
@@ -19,73 +20,88 @@ Por [Alberto Basalo](https://albertobasalo.dev)
 
 ### ¿Qué es el Prompting?
 
-* Es la forma de **Interactuar** con la IA en **Lenguaje Natural**.
+- Es la forma de **dar instrucciones** a la IA en **lenguaje natural**.  
+- Es cómo transformamos **una intención** en **una acción útil**.
 
-###  ¿Arte o Ingeniería?
+---
 
-| Aspecto | Requerimiento | Resultado |
-| :--- | :--- | :--- |
-| **Arte** | Creatividad, Experiencia y Paciencia. | Prueba y error. |
-| **Ingeniería** | Estructura, Método y Métricas. | Procedimiento. |
+### Actividad rápida  
+- Escribe en el chat un ejemplo de cómo pedirías algo a una IA.  
+- Luego intenta hacerlo más claro o más corto.  
+> ¿Qué cambiaste?
 
 ---
 
 ## CONCEPTOS
 
-### Principios del Prompting
+### ¿Arte o ingeniería?
 
-* **Específico**: Objetivo _claro_.
-* **Detallado**: Información _suficiente_ para el objetivo.
-* **Formal** Usar _markdown_ o similares que aporten estructura.
-* **Conciso**: Usar _palabras clave_ antes que sintaxis completa.
+| Enfoque | Qué requiere | Qué produce |
+| :--- | :--- | :--- |
+| **Arte** | Creatividad, intuición, paciencia. | Resultados variados, a veces brillantes. |
+| **Ingeniería** | Método, estructura, revisión. | Resultados consistentes y reproducibles. |
+
+> El mejor prompting combina ambos.
 
 ---
 
-### Estructura del Prompt
+### Principios básicos
 
-| Sección | Función | Ejemplo (Instrucción) |
+- **Específico:** di exactamente qué necesitas.  
+- **Detallado:** incluye información relevante (contexto, datos, formato).  
+- **Estructurado:** usa listas, bloques o `Markdown`.  
+- **Conciso:** elimina lo innecesario, deja lo esencial.  
+
+> Cuanto más claro el mensaje, más útil la respuesta.
+
+---
+
+### Estructura del prompt
+
+| Parte | Función | Ejemplo |
 | :--- | :--- | :--- |
-| **Rol** | _Identidad_, _PoV_ | Eres un Experto en Marketing. |
-| **Instrucción** | _Tarea principal_, _Objetivo_ | Genera cinco ideas de títulos. |
-| **Contexto** | _Trasfondo_, _Relevancia_ | Para un webinar sobre ciberseguridad. |
-| **Datos** | _Input_ | Aquí está el temario: [Datos] |
-| **Salida** | _Formato_, _Estilo_, _Tamaño_ | Lista numerada, 10 palabras máx. |
+| **Rol** | Define quién responde. | “Actúa como consultor de RRHH.” |
+| **Tarea** | Explica qué hacer. | “Redacta una descripción de puesto.” |
+| **Contexto** | Añade relevancia. | “Para una empresa tecnológica.” |
+| **Datos** | Aporta información base. | “Aquí están las funciones del equipo.” |
+| **Formato** | Indica la salida esperada. | “Usa una lista numerada.” |
 
 ---
 
 ### Técnicas avanzadas
 
-- **Zero/one/few shot**: Proporcionar ejemplos para aprendizaje por contexto
-- **Chain of thought**: Pedir o proporcionar pasos para la resolución del problema
-- **Self-consistency**: Probar múltiples respuestas y seleccionar la mejor
-- **Temperature**: Controlar la aleatoriedad de la respuesta
+- **Ejemplo previo (`few-shot`):** incluye una muestra de la respuesta deseada.  
+- **Cadena de razonamiento (`chain of thought`):** pide que explique los pasos.  
+- **Revisión (`self-consistency`):** solicita varias alternativas y elige la mejor.  
+- **Control de estilo (`temperature`):** ajusta tono, extensión o público objetivo.
 
 ---
 
 ## CONCRETANDO
 
-### Práctica individual, discusión en grupo.
+### Práctica individual y puesta en común
 
-- 1. **Escribir un prompt estructurado:**
-   > Ejemplo: Impacto de la IA en el mercado laboral.
+1. **Crea un prompt estructurado:**  
+   > Ejemplo: "Impacto de la IA en el mercado laboral."
+   Añade rol, tarea, contexto y formato.
 
-- 2. **Alternativas de prompt:**
-   > Ejemplo: Cambiar el rol, la instrucción, el contexto, los datos, etc.
+2. **Refina tu prompt:**  
+   > Cambiar el rol, la instrucción, el contexto, los datos.  
+   Observa cómo cambia la respuesta.
 
-- 3. **Aplicar técnicas avanzadas:**
-   > Refinar con un ejemplo, solicitar evaluación y forzar la verificación.
+3. **Aplica una técnica avanzada:**  
+   > Añade un ejemplo previo o pide que evalúe su propia respuesta.
 
 ---
 
 ## CONCLUSIONES
 
-- Más esfuerzo en ingeniería reduce la necesidad de arte.
+- Un **buen prompt** es claro, estructurado y verificable.  
+- El **arte** inspira ideas nuevas; la **ingeniería** garantiza resultados útiles.  
+- Practicar mejora más que leer sobre _prompting_.
 
-### Enlaces:
-https://www.bytesizedai.dev/p/how-to-talk-to-robots
-
-### Próxima lección: 
+### Próxima lección:
 **ChatGPT en profundidad.**
 
-> _No es magia, es tecnología._ 
+> _No es magia, es tecnología._  
 > **Alberto Basalo**
