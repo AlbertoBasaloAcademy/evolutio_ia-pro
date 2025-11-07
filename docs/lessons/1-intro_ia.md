@@ -11,20 +11,20 @@ theme: ab
 
 ### La IA es la base de todas las herramientas que usaremos a partir de hoy.
 
-Un curso de [Tecnofor](https://www.tecnofor.es/) para **Evolutio**.  
+Un curso de [Tecnofor](https://www.tecnofor.es/) para **[Evolutio](https://www.evolutio.com/)**.  
 Por [Alberto Basalo](https://albertobasalo.dev)
 
 > Noviembre 2025
 
 ---
 
-## CONEXIÓN
+## Conexión
 
 ### ¿Qué entendemos por IA?
 
 - Es la **automatización de tareas intelectuales**
   > escribir, analizar, decidir, razonar.  
-- No es _magIA_, ni _conciencIA_, 
+- No es **_magIA_**, ni _conciencIA_, 
   > es **tecnologÍA**.
 
 ---
