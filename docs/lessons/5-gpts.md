@@ -54,7 +54,7 @@ Por [Alberto Basalo](https://albertobasalo.dev)
 
 ---
 
-### NotebookLM
+### NotebookLM (complemento a GPTs)
 
 - Herramienta de Google para **analizar documentos extensos** (manuales, contratos, pliegos).  
 - Funciona como un **GPT especializado** en tus propios textos.  
@@ -66,15 +66,15 @@ Por [Alberto Basalo](https://albertobasalo.dev)
 
 ### Práctica individual, discusión en grupo.
 
-1. **Diseñar un GPT simple.**  
+- 1 **Diseñar un GPT simple.**  
    > Definir nombre, propósito e instrucciones.  
    > Ejemplo: “Asistente para atención al cliente de Evolutio”.
 
-2. **Subir conocimiento propio.**  
+- 2 **Subir conocimiento propio.**  
    > Cargar un documento interno (FAQ o procedimiento).  
    > Limitar el acceso a Internet para respuestas basadas en los archivos.
 
-3. **Simular una sesión de soporte.**  
+- 3 **Simular una sesión de soporte.**  
    > Formular preguntas reales de clientes.  
    > Evaluar si el GPT responde correctamente o necesita ajustes.
 

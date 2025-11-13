@@ -20,8 +20,8 @@ Por [Alberto Basalo](https://albertobasalo.dev)
 
 ### ¿Qué es la Automatización?
 
-- Es el uso de herramientas para **encadenar tareas** que se ejecutan de forma automática.  
-- Permite **ahorrar tiempo, reducir errores y mejorar la consistencia** operativa.  
+- Es el uso de herramientas para **encadenar tareas**.  
+
 - Con IA, los flujos pueden **tomar decisiones inteligentes** en cada paso.
 
 ### ¿Dónde se aplica?
@@ -37,18 +37,19 @@ Por [Alberto Basalo](https://albertobasalo.dev)
 
 | Herramienta | Tipo | Característica |
 | :-- | :-- | :-- |
-| **Make.com** | Plataforma no-code | Ideal para flujos visuales y APIs modernas. |
+| **Make.com** | Plataforma | Ideal para flujos visuales y APIs modernas. |
 | **n8n.io** | Open Source | Puede instalarse localmente o en servidores propios. |
-| **Power Automate** | Microsoft 365 | Integrado con Outlook, SharePoint y Teams. |
+| **Power Automate** | Microsoft | Integrado con Windows. |
+| **Copilot Studio** | Microsoft | Web online para cuentas Microsoft. |
 
 ---
 
 ### Cómo funciona un flujo
 
-1. **Disparador (trigger):** evento inicial (correo recibido, nuevo registro, mensaje).  
-2. **Acciones (steps):** operaciones encadenadas (analizar texto, guardar datos, enviar mensaje).  
-3. **Condiciones:** decisiones basadas en el contenido o resultado.  
-4. **Salidas:** tareas finales (notificar, actualizar, generar documento).
+- 1- **Disparador (trigger):** evento inicial (correo recibido, nuevo registro, mensaje).  
+- 2- **Acciones (steps):** operaciones encadenadas (analizar texto, guardar datos, enviar mensaje).  
+- 3- **Condiciones:** decisiones basadas en el contenido o resultado.  
+- 4- **Salidas:** tareas finales (notificar, actualizar, generar documento).
 
 ---
 
@@ -65,16 +66,13 @@ Por [Alberto Basalo](https://albertobasalo.dev)
 
 ### Práctica individual, discusión en grupo.
 
-1. **Analizar un caso común.**  
+- 1- **Analizar un caso común.**  
    > Ejemplo: Recepción de un email de cliente con incidencia.  
    > Definir pasos para registrar y responder automáticamente.
 
-2. **Diseñar un flujo básico.**  
-   > Trigger: “Nuevo correo recibido”.  
-   > Acciónes: 1. “Usar IA para extraer tema y prioridad.”  - 2. “Registrar ticket en hoja Excel o CRM simulado.”
-
-3. **Explorar una herramienta real.**  
-   > Revisar [PowerAutomate](https://powerautomate.microsoft.com/) o [Make.com](https://www.make.com/en) o [n8n.io](https://n8n.io/).
+- 2- **Diseñar un flujo básico.**  
+   > Trigger: `Nuevo correo recibido`.  
+   > Actions: `Usar IA para extraer tema y prioridad.`  ->  `Registrar ticket en hoja Excel o CRM simulado.`
 
 ---
 

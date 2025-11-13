@@ -102,12 +102,8 @@ Por [Alberto Basalo](https://albertobasalo.dev)
 - No reemplaza el análisis humano, lo **complementa**.  
 - Saber **formular preguntas** correctas sigue siendo la clave.
 
-### ¿Qué necesitas para usar la IA profesionalmente?  
-
-  - Entender sus fundamentos.
-  - Dominar el prompting.
-  - Trabajar con las herramientas de ChatGPT.
-  - Analizar datos con eficacia.
+### Próxima lección:  
+**Agentes Especializados (GPTs)**
 
 > _No es magia, es tecnología._  
 > **Alberto Basalo**

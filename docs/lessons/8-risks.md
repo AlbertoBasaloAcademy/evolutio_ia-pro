@@ -36,12 +36,11 @@ Por [Alberto Basalo](https://albertobasalo.dev)
 
 ### Tratamiento de datos en IA
 
-| Tipo de cuenta | Qué guarda | Dónde se procesa |
-| :-- | :-- | :-- |
-| **Free / Plus** | Conversaciones y archivos temporales (hasta 30 días). | Servidores de OpenAI (EE. UU.). |
-| **Pro / Enterprise** | Datos excluidos del entrenamiento. | Servidores dedicados (UE o EE. UU.). |
-| **API** | No se usan los datos para entrenar. | Según el proveedor y región del contrato. |
-
+- **Tipo de cuenta** (Free, Pro, Enterprise) afecta a la privacidad.  
+- **Políticas de retención:** cuánto tiempo se guardan los datos.
+- **Uso para entrenamiento:** si los datos se usan para mejorar el modelo.
+- **Ubicación del servidor:** dónde se procesan los datos (país, región).
+  
 ---
 
 ### Buenas prácticas de privacidad
@@ -66,15 +65,15 @@ Por [Alberto Basalo](https://albertobasalo.dev)
 
 ### Práctica individual, discusión en grupo.
 
-1. **Evaluar un caso real.**  
+- 1- **Evaluar un caso real.**  
    > Analizar un ejemplo de uso de IA en atención al cliente.  
    > Identificar datos personales y definir cómo deberían tratarse.
 
-2. **Configurar privacidad.**  
+- 2- **Configurar privacidad.**  
    > Revisar las opciones de configuración en ChatGPT:  
    > historial, retención y control de contenido.  
 
-3. **Diseñar una política interna.**  
+- 3- **Diseñar una política interna.**  
    > Proponer normas simples de uso responsable:  
    > qué tipo de información puede subirse, y en qué contexto.  
 
@@ -86,8 +85,12 @@ Por [Alberto Basalo](https://albertobasalo.dev)
 - No se trata de prohibir, sino de **usar con conocimiento y criterio**.  
 - La privacidad es una **competencia profesional**, no un obstáculo técnico.  
 
-### Fin del curso:  
-**IA aplicada al entorno laboral.**
+### ¿Qué necesitas para usar la IA profesionalmente?  
+
+  - **Entender** los fundamentos.
+  - **Dominar** el prompting.
+  - **Analizar** flujos automatizables.
+  - **Practicar** con las herramientas.
 
 > _No es magia, es tecnología._  
 > **Alberto Basalo**

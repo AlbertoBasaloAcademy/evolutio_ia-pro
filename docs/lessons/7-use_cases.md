@@ -57,9 +57,9 @@ Por [Alberto Basalo](https://albertobasalo.dev)
 
 ### Creación multimedia
 
-- **Imágenes:** DALL·E, Midjourney, Firefly.  
-- **Vídeo:** Sora, Pika, Runway.  
-- **Audio:** Suno, ElevenLabs.  
+- **Imágenes:** DALL·E, Midjourney, Firefly, Nano banana.  
+- **Vídeo:** Sora, Pika, Runway, Synthesia, HeyGen
+- **Audio:** MurfAI, ElevenLabs.  
 
 Usos comunes:  
 - Material de formación o marketing.  
@@ -80,15 +80,15 @@ Usos comunes:
 
 ### Práctica individual, discusión en grupo.
 
-1. **Explorar un caso de uso de voz o vídeo.**  
+- 1- **Explorar un caso de uso de voz o vídeo.**  
    > Probar una demo de conversación o transcripción con IA.  
    > Identificar beneficios y limitaciones.
 
-2. **Experimentar con OCR.**  
+- 2- **Experimentar con OCR.**  
    > Subir una imagen o PDF escaneado.  
    > Pedir a la IA que extraiga texto o datos específicos.
 
-3. **Crear un material visual.**  
+- 3- **Crear un material visual.**  
    > Usar un generador de imágenes o diagramas.  
    > Una ilustración o un flujo.
 
